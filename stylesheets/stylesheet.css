@@ -245,3 +245,10 @@ a {
 .cf {
   zoom:1;
 }
+
+#contact {
+	text-decoration:none;
+}
+#pgp-key {
+	text-decoration:none;
+}

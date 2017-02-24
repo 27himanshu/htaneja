@@ -26,7 +26,8 @@ Git, Regular Expressions, Apache Spark, Microsoft Excel, NLTK, scikit-learn
 
 
 ACADEMIC PROJECTS
-Importance of Text in News Stories (Thesis)							(Nov 2016 - Present)
+Importance of Text in News Stories
+(Nov 2016 - Present)
 - Gathering and analyzing news stories from digital platforms such as Reddit, CNN & FoxNews
 - Identifying the attributes that differentiate front page news from other stories; to design a model that can suggest top news stories to the editors
 

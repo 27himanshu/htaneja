@@ -2,6 +2,7 @@ Himanshu Taneja
 (979) 985 8727, 027himanshu@gmail.com
 401 Stasney St Apt 304, College Station, Texas 77840
 
+
 OBJECTIVE
 Seeking summer internship opportunities in the fields of data science, machine learning, and natural language processing
 
@@ -10,58 +11,68 @@ EDUCATION
 Texas A&M University, College Station, Texas
 (May 2018)
 Masters of Science in Electrical Engineering, GPA: 4.0
-
-USICT, Guru Gobind Singh Indraprastha University, Delhi, India
-(May 2016)
+Courses: Linear Algebra, Statistical Theory, Regression Analysis, Natural Language Processing, Structural Bioinformatics
+USICT, Guru Gobind Singh Indraprastha University, Delhi, India						May 2016
 Bachelor of Technology in Electronics and Communications Engineering, GPA: 74.85/100 (3rd in class)
 
 
 SKILLS
 Programming Languages:
-Most experienced with C++, Python, R, Matlab
-Some experience in C, Bash, Java, Awk, SQL
+Most experienced with C++, Java, Python, R, Matlab
+Some experience in C, Bash, Awk, SQL
 
 Tools and Libraries:
-Git, Regular Expressions, Apache Spark, Microsoft Excel, NLTK, scikit-learn
+Git, Regular Expressions, Apache Spark, Microsoft Excel, Relational Databases, NLTK, scikit-learn
 
 
-ACADEMIC PROJECTS
-Importance of Text in News Stories
-(Nov 2016 - Present)
-- Gathering and analyzing news stories from digital platforms such as Reddit, CNN & FoxNews
-- Identifying the attributes that differentiate front page news from other stories; to design a model that can suggest top news stories to the editors
+PROJECTS
+Recommendation System for News Stories (Thesis)
+(Ongoing)
+- Gathering and analyzing article structure of news stories from digital platforms such as Reddit, CNN & FoxNews
+- Identifying the attributes that differentiate front page news from other stories; to design a model that can suggest top news stories to imthe editors
+
+Part-of-Speech Tagger
+(Spring 2017)
+- Implemented a Hidden-Markov model in Python to tag words in a text corpus as Noun, Verb, Preposition etc.
+- After initialization the model can improve upon itself by learning from the already tagged words. 
+
+Molecular Conformation Optimization
+(Spring 2017)
+- Designed a Monte-Carlo sampling method in Python to optimize the placement of atoms in 3-dimensional structure of a molecule.
+- The application is scalable to any number of atoms requiring only 3 bytes of storage per atom and has a constant-time complexity per iteration 
+
+Sequence Aligner
+(Spring 2017)
+- Implemented the Needleman-Wunsch algorithm in Python to align Protein and DNA sequences
+- The application can scan through a database of sequences and return the best match possible for a target sequence
 
 Classification of Stacking Fault Energy of Alloys
-(Sep - Nov 2016)
-- Language used: R
+(Fall 2016)
 - Analyzed the effect of chemical composition of Steel alloys on their Stacking Fault Energy (SFE)
 - Identified most significant elements affecting SFE of alloys using T-test and Principal Component Analysis
 - Trained and benchmarked the classification algorithms (Linear Discriminant Analysis, K-Nearest Neighbors, and Support Vector Machines) on the dataset
 
 Automatic Text Classification and Summarization
-(Jun - Aug 2015)
-- Language used: C++
+(Summer 2015)
 - Developed a text classifier using machine learning algorithms (Naive Bayes, K-Nearest Neighbors, and Support Vector Machines)
-- Implemented a method to generate summary of a text article using a sentence ranking system: ‘term frequency-inverse sentence frequency’
+- Designed a bootstrapping approach to generate summary of news article using their headlines
 - Techniques used: stop-words removal, stemming, term frequency-inverse document frequency, additive smoothing
 
-
-OTHER PROJECTS
 Image Enigma: Encrypt Digital Images
+(Spring 2015)
 - Implemented the Enigma Machine (a polyalphabetic cipher) in Python and engineered it to encrypt digital images
 
 Person of Interest
+(Spring 2015)
 - Analyzed Enron dataset in Python using machine learning algorithms to identify persons of interest in the Enron Scandal
 
 VocabList: A cross-platform application
+(Spring 2015)
 - Developed a cross-platform GUI application using Kivy Framework in Python to maintain a database of words for improving vocabulary
-
-Emails in Context Menu
-- Designed a context menu for Openbox Desktop Environment to display emails; the application can run as a daemon to periodically get new emails
 
 
 ACTIVITIES
-TechSpace (Technical Club at USICT
-(Jan 2014 - May 2016)
+TechSpace (Technical Club at USICT)
+(Jan 2014 – May 2016)
 - Organized InfoXpression (Annual technical fest) and monthly LAN Gaming Contests
 - Presented seminar on “Python Programming Language in Data Science”
